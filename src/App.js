@@ -1,9 +1,9 @@
-import React from 'react';
-
+import React from "react";
+import AboutUs from "./Pages/AboutUs";
 function App() {
   return (
     <div className="App">
-     Yash Garg
+      <AboutUs />
     </div>
   );
 }
